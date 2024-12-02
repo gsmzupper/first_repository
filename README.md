@@ -27,4 +27,16 @@ As inscrições para o programa Catalisa abrem periodicamente. Para saber mais e
 
 Junte-se ao Catalisa e faça parte da transformação na área de tecnologia!
 
-Catalisa  Zup  Inclusão  Tecnologia  PCD
+Catalisa Zup Inclusão Tecnologia PCD
+
+
+## Sobre o Autor: Gabriel Merçoni
+Olá! Sou Gabriel Merçoni, tenho deficiência visual e sou cego total desde os 14 anos. Atualmente estudo Ciência da Computação, impulsionado pela minha paixão por entender como as coisas funcionam "por debaixo dos panos".
+
+## Habilidades:
+* **Linguagens de Programação:** Java (3 anos de experiência), TypeScript, Dart, Python (nível básico).
+* **Frameworks/Tecnologias:** Spring Boot, Docker.
+* **Bancos de Dados:** MySQL, PostgreSQL, MongoDB
+
+## Motivações:
+Meu objetivo é me tornar um especialista em desenvolvimento back-end, com foco em Java. Tenho um sonho ambicioso: ser o primeiro cego Java Champion. Sei que é um desafio difícil, mas acredito que sonhar é fundamental para nos manter motivados. A programação, para mim, é mais do que uma profissão; é uma forma de explorar o mundo e superar limites.
